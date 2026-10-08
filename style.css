@@ -1,0 +1,27 @@
+.course-page {
+  background-color: pink;
+  overflow: auto;
+  color: cornflowerblue;
+}
+.card {
+  background-color: lightskyblue;
+  color: whitesmoke;
+  padding: 30px;
+  border: 2px grey;
+  margin: 30px;
+  text-align: center;
+  max-width: fit-content;
+}
+h1 { color:red;
+font-size: 50px;
+font-weight: 30px;}
+p { font-size: 18px;
+color: brown;}
+#register-button {
+color: red;
+width: 80px;
+height: 50px;
+background-color:greenyellow;
+padding: 10px;
+font-width: large;
+}
